@@ -156,11 +156,11 @@ blockquote {
   color: #fff;
   padding: 3em 0;
   border-top-right-radius: 40px;
-  transform: skewY(2deg);
+  transform: skewY(0deg);
 }
 
 .footer-container .container {
-  transform: skewY(-2deg);
+  transform: skewY(0deg);
 }
 
 .footer-container:before {
