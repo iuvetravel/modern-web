@@ -391,11 +391,11 @@ nav ul li a:hover {
     width: 15%;
   }
   .blue-container ul li:nth-child(3) img {
-    width: 100%;
+    width: 8%;
     margin-top: -16px;
   }
   .blue-container ul li:nth-child(2) img {
-    width: 100%;
+    width: 15%;
     margin-top: -116px;
   }
 }
